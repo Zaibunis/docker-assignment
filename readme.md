@@ -24,8 +24,13 @@ docker run -p 3000:3000 nextjs-app
 Open http://localhost:3000
 ```
 
-Screenshot:
+**Screenshot:**
+
+
 ![Docker-Container](screenshots/container.png)
+
+-----------------------------------------------
+
 ![Docker-Images](screenshots/images.png)
 
 ## FastAPI Docker Project
@@ -43,6 +48,11 @@ docker run -p 8000:8000 fastapi-app
 Open http://localhost:8000/docs
 ```
 
-Screenshot:
+**Screenshot:**
+
+
 ![Docker-Container](screenshots/container.png)
+
+----------------------------------------------
+
 ![Docker-Images](screenshots/images.png)
